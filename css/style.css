@@ -1,0 +1,30 @@
+body{
+    background: gray;
+    color: greenyellow;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header{
+    margin-top: 130px;
+}
+
+
+h1{
+    color: rgb(87, 43, 43);
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+
+p{
+    font-size: 22px;
+}
+
+
+image{
+    margin-bottom: 400px;
+}
